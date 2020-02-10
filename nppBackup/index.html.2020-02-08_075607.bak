@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset=" UTF8">
+		<title>Media</title>
+		<link rel="icon" href="html.ico" />
+		<link rel="stylesheet" href="assets/css/page.css" type="text/css" media="all"/>
+		<style>
+		 
+		</style>
+	</head>
+	<body>
+		<main>
+			<header>
+				<h2>Les differentes du media</h2>
+				<img src="../img/media2.jpg" alt="media" width="200px" height="200px" >
+			</header>
+			<fieldset class="fi1">
+				<legend>image</legend>
+				<img src="C:\Users\ALIX_PAMBA\Desktop\projet 241\media\assets\img\giphy.gif"width="200" height="200" alt="image html.gif"/>
+				<img src="..\media\assets\img\téléchargement.png"width="200" height="200" alt="image.png"/>
+				<img src="assets\img\html.jpg"width="200" height="200" alt="image.jpg"/>
+		  </fieldset>
+		  <fieldset class="fi2">
+				<legend>Audio</legend>
+				<audio>
+					<source src="C:\Users\ALIX_PAMBA\Desktop\assets\audio\html.mp3" type="audio/mp3">
+				</audio>
+			</fieldset>
+			<fieldset class="fi3">
+				<legend>Video</legend>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/KsCUcBK9q14" controls></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15958.852157362793!2d9.4450548!3d0.41623350000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sga!4v1579099794476!5m2!1sfr!2sga" width="560" height="315"></iframe>
+				<video width="560" height="315" controls>
+				  <source src="C:\Users\ALIX_PAMBA\Desktop\assets\video\html.mp4" type="video/mp4">
+				</video>
+			</fieldset>
+		</main>
+	</body>

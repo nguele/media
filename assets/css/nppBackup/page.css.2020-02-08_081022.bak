@@ -1,0 +1,11 @@
+header{
+	text-align: center;
+}
+body{
+	background-color:green;
+	font-size:20px;
+	color:blue
+}
+ fieldset{
+ style="width:350px;
+ }

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<title>Media</title>
+		<link rel="icon" href="html.ico" />
+		<link rel="stylesheet" href="assets/css/page.css" type="text/css" media="all"/>
+	</head>
+	<body>
+		<main>
+			<header>
+				<h2>Les differents media</h2>
+			</header>
+			<fieldset class="fi1">
+				<legend>image</legend>
+				<img src="C:\Users\ALIX_PAMBA\Desktop\projet 241\media\assets\img\giphy.gif"width="100" height="100" alt="image html.gif"/>
+				<img src="..\media\assets\img\téléchargement.png"width="100" height="100" alt="image.png"/>
+				<img src="assets\img\html.jpg"width="100" height="100" alt="image.jpg"/>
+		  </fieldset>
+		  <p>
+			 Le terme média désigne tout moyen de distribution, 
+			 de diffusion ou de communication, d'œuvres, de documents,
+			 ou de messages écrits, visuels,
+			 sonores ou audiovisuels (comme la radio, la télévision,
+			 le cinéma, Internet, la presse, les télécommunications, etc.)1.
+			 Ce terme est souvent
+			 utilisé comme l'abréviation du terme anglais mass-media 
+			 ou médias de masse en français2.
+		  </p>
+		  <fieldset class="fi2">
+				<legend>Audio</legend>
+				<audio>
+					<source src="../audio/html.mp3" type="audio/mp3">
+				</audio>
+			</fieldset>
+			<fieldset class="fi3">
+				<legend>Video</legend>
+				<iframe src="https://www.youtube.com/embed/KsCUcBK9q14" width="200" height="200" controls> </iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15958.852157362793!2d9.4450548!3d0.41623350000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sga!4v1579099794476!5m2!1sfr!2sga" width="200" height="200"></iframe>
+				<video width="200" height="200" controls>
+				  <source src="C:\Users\ALIX_PAMBA\Desktop\assets\video\html.mp4" type="video/mp4">
+				</video>
+			</fieldset>
+		</main>
+	</body>

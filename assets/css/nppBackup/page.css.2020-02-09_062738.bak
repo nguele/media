@@ -1,0 +1,12 @@
+header{
+	text-align: center;
+}
+body{
+	background-color:green;
+	font-size:20px;
+	color:blue
+}
+ fieldset.fi1{
+ style="width:350px;
+ 
+ }
